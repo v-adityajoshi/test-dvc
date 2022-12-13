@@ -1,4 +1,4 @@
 [core]
     remote = storage
 ['remote "storage"']
-    url = ssh://saffy@192.168.0.140/home/saffy/Workspace
+    url = ssh://saffy@192.168.0.140/home/saffy/Workspace/dvcstore
